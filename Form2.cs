@@ -20,7 +20,7 @@ namespace overrideApp
         private void btnAuth_Click(object sender, EventArgs e)
         {
             // Replace with your desired username and password
-            string correctPassword = "12345";
+            string correctPassword = "Papamax69";
 
             if (txtAuthPw.Text == correctPassword)
             {
